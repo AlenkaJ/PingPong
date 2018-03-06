@@ -1,7 +1,7 @@
 # PingPong
 A simple Pong game written in Python
 
-Typical programming structure:
+Typical programming structure in games:
 http://www.gameprogrammingpatterns.com/contents.html
 
 Python documentation:
