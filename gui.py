@@ -1,3 +1,5 @@
+# A simple animation - test of Tkinter gui library
+
 from tkinter import *
 import time
 
