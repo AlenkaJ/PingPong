@@ -7,11 +7,16 @@ http://www.gameprogrammingpatterns.com/contents.html
 Python documentation:
 https://docs.python.org/3/
 
+
+## Animation and GUI:
 Tkinter - Gui creation:
 http://effbot.org/tkinterbook/canvas.htm
 
 Tkinter animation example:
 https://stackoverflow.com/questions/13215215/python-tkinter-animation
+
+Collision handling example:
+https://stackoverflow.com/questions/345838/ball-to-ball-collision-detection-and-handling
 
 # TODO:
 
