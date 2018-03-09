@@ -1,4 +1,10 @@
-# Animation
+# Animation#
+############
+# A simple animation example 
+# - a little buggy - need better loop structure? Can we just move objects in canvas and not redraw them?
+# how to have more objects with different speeds?
+
+
 from tkinter import *
 import time
 
